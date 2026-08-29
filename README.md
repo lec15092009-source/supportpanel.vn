@@ -1,2 +1,0 @@
-# supportpanel.vn
-AimLockPanel
